@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Remove the data rows
+
+data/
+.features.csv
+.tool-versions
+reports/
